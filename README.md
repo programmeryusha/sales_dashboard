@@ -1,4 +1,3 @@
-# sales_dashboard
 # Sales Dashboard
 
 An interactive, widget-based sales analysis dashboard built with Python, Pandas, and Seaborn in Jupyter Notebook.
